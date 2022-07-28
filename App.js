@@ -11,6 +11,7 @@ import NearYou from './src/screens/NearYou'
 import Location1 from './src/screens/Location1'
 import Location2 from './src/screens/location2'
 import Maps from './src/screens/Maps'
+import NehaMap from './src/screens/NehaMap'
 const App = () => {
   return (
     <>
@@ -23,6 +24,7 @@ const App = () => {
     {/* <Location1/> */}
     {/* <Location2/> */}
     {/* <Maps/> */}
+    <NehaMap/>
     </>
     
   )
