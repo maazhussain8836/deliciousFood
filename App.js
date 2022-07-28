@@ -22,7 +22,7 @@ const App = () => {
     {/* <NearYou/> */}
     {/* <Location1/> */}
     {/* <Location2/> */}
-    <Maps/>
+    {/* <Maps/> */}
     </>
     
   )
